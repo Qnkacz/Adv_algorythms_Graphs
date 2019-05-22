@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556747149 source:d:\studia\zaawansowane algorytmy\zawansowane algorytmy projekt_2\grafy\main.cpp
+	"definicje.h"
+
+1557258865 d:\studia\zaawansowane algorytmy\zawansowane algorytmy projekt_2\grafy\definicje.h
+	<iostream>
+	<vector>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1556747060 source:d:\studia\zaawansowane algorytmy\zawansowane algorytmy projekt_2\grafy\funkcje.cpp
+	"definicje.h"
+
